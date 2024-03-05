@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on some Machine Learning and Deep Learning Projects (will publish soon).
+- 🌱 I’m currently learning Machine Learning in Production.
+- 📫 How to reach me: nguyendhuy20102004@gmail.com (email) 
+
 <!--
 **nguyhu01/nguyhu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
