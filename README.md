@@ -1,4 +1,4 @@
-##### Hi there 👋
+#### Hi there 👋
 ### My name is Huy, and I am a Data Scientist/Machine Learning Engineer pursuing my Bachelor's in Data Science and Mathematics.
 
 - 🔭 I’m currently working on some Machine Learning and Deep Learning Projects (will publish soon).
