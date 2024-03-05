@@ -1,4 +1,4 @@
-<h2> Hi there 👋</h2>
+<h1> Hello there 👋</h1>
 <h3>My name is Huy, and I am a Data Scientist/Machine Learning Engineer pursuing my Bachelor's in Data Science and Mathematics.</h3>
 
 - 🔭 I’m currently working on some Machine Learning and Deep Learning Projects (will publish soon).
