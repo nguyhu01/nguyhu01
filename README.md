@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nguyhu01&show_icons=true&locale=en" alt="nguyhu01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nguyhu01&" alt="nguyhu01" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nguyhu01&theme=radical" alt="GitHub Streak" /></a>
