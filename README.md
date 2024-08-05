@@ -2,8 +2,8 @@
 <h1 align="center"> Hello there 👋, I'm Huy</h1>
 <h3 align="center">A passionate Data Scientist/Machine Learning Engineer pursuing my Bachelor's in Data Science and Mathematics</h3>
 
-- 🔭 I’m currently working on some Machine Learning and Deep Learning Projects (will publish soon).
-- 🌱 I’m currently learning Machine Learning in Production.
+- 🔭 I’m currently working on some Full-stack ML Projects (will publish soon).
+- 🌱 I’m currently learning MLops and Next.js.
 - 📫 How to reach me: nguyendhuy20102004@gmail.com (email) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nguyhu01" alt="nguyhu01" /></a> </p>
